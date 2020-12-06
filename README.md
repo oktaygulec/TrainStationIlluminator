@@ -3,7 +3,7 @@
 <b>Problem:</b>
 
 We have a bunch of unlightened train stations and we have to put lights on them.
-In this case, we should be able to put lights on unlightened stations but, they have a starting and ending points and we should find those points and then we are puting those lights on stations.
+In this case, we should be able to put lights on unlightened stations but, they have a starting and ending points and we should find those points and then we are puting those lights on those stations.
 
 <b>Solution:</b>
 

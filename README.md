@@ -18,5 +18,6 @@ And finally in final step; we are going to print the lightened train station to 
 
 
 
-If you have any questions or suggestions, you can reach me at Discord (Miyajinco#3918). It would be awesome and i really appreciate for your interest.
 Thanks for checking and reading my train station lightener project.
+
+If you have any questions or suggestions, you can reach me at Discord (Miyajinco#3918). It would be awesome and i really appreciate for your interest.

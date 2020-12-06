@@ -1,0 +1,13 @@
+C:\Users\root\source\repos\TrainStation\TrainStation\bin\Debug\netcoreapp3.1\TrainStation.exe
+C:\Users\root\source\repos\TrainStation\TrainStation\bin\Debug\netcoreapp3.1\TrainStation.deps.json
+C:\Users\root\source\repos\TrainStation\TrainStation\bin\Debug\netcoreapp3.1\TrainStation.runtimeconfig.json
+C:\Users\root\source\repos\TrainStation\TrainStation\bin\Debug\netcoreapp3.1\TrainStation.runtimeconfig.dev.json
+C:\Users\root\source\repos\TrainStation\TrainStation\bin\Debug\netcoreapp3.1\TrainStation.dll
+C:\Users\root\source\repos\TrainStation\TrainStation\bin\Debug\netcoreapp3.1\TrainStation.pdb
+C:\Users\root\source\repos\TrainStation\TrainStation\obj\Debug\netcoreapp3.1\TrainStation.csprojAssemblyReference.cache
+C:\Users\root\source\repos\TrainStation\TrainStation\obj\Debug\netcoreapp3.1\TrainStation.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\TrainStation\TrainStation\obj\Debug\netcoreapp3.1\TrainStation.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\TrainStation\TrainStation\obj\Debug\netcoreapp3.1\TrainStation.AssemblyInfo.cs
+C:\Users\root\source\repos\TrainStation\TrainStation\obj\Debug\netcoreapp3.1\TrainStation.dll
+C:\Users\root\source\repos\TrainStation\TrainStation\obj\Debug\netcoreapp3.1\TrainStation.pdb
+C:\Users\root\source\repos\TrainStation\TrainStation\obj\Debug\netcoreapp3.1\TrainStation.genruntimeconfig.cache

@@ -34,8 +34,8 @@ namespace TrainStation
             {
                 for (int j = 0; j < tl; j++)
                 {
-                    /*Make a random number between 0 and 2 (it's gonna be 0 or 1) 
-                    convert them to * or - (* is empty and - is unlightened location)
+                    /*Make a random number between 0 and 2 (it's going to be 0 or 1) 
+                    convert them to * or - (* is empty and - is unlit location)
                     and put them into a 2D Array which is a train station
                     */
 
@@ -72,21 +72,21 @@ namespace TrainStation
                 for (int j = 0; j < tl; j++)
                 {
                     //Konumum istasyonsa ve daha önce istasyona uğramadıysam lamba koy.
-                    //If my current location is a station and if i didn't stop by any station before, then put a light.
+                    //If my current location is a station and if I didn't stop by any station before, then put a light.
                     if (path[i, j] == '-' && totalStation == 0)
                     {
                         path[i, j] = '+';
                         totalStation++;
                     }
                     //Konumum istasyonsa ve daha önce istasyona uğradıysam devam et.
-                    //If my current location is a station and if i did stop by any station before, then continue.
+                    //If my current location is a station and if I did stop by any station before, then continue.
 
                     else if (path[i, j] == '-' && totalStation > 0)
                     {
                         totalStation++;
                     }
                     //Konumum istasyon değilse ve daha önce istasyona uğradıysam bir önceki konuma lamba koy.
-                    //If my current location is not a station and if i did stop by any station before, then put a light before the current location.
+                    //If my current location is not a station and if I did stop by any station before, then put a light before the current location.
 
                     else if (path[i, j] == '*' && totalStation > 0)
                     {
@@ -94,7 +94,7 @@ namespace TrainStation
                         totalStation = 0;
                     }
                     //Konumum istasyonsa ve yolun sonundaysam lamba koy
-                    //If my current location is a station and if i'm at the end of the path, then put a light.
+                    //If my current location is a station and if I'm at the end of the path, then put a light.
                     if (path[i, j] == '-' && j == tl - 1)
                     {
                         path[i, j] = '+';
